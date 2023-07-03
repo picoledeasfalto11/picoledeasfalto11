@@ -1,9 +1,9 @@
-### Hi there 👋
+### boa vindas ao meu perfil 🐤
 
-<!--
-**picoledeasfalto11/picoledeasfalto11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--meu nome é karina
 
-Here are some ideas to get you started:
+estou estudando no alura 
+estou me desenvolvendo na linguagem javaescrit
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
